@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RTDSample</string>
+    <string name="op_1">Option_1</string>
+    <string name="op_2">Option_2</string>
+    <string name="op_3">Option_3</string>
+    <string name="op_4">Option_4</string>
+    <string name="settings">Settings</string>
+    <string name="tabHeader">Sample</string>
+</resources>
